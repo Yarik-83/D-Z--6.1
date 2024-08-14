@@ -52,3 +52,6 @@ width: 76px;
     background-color: #000;
     width: 76px;
 }
+.wrapper{
+    border: red solid 1vw;
+}
